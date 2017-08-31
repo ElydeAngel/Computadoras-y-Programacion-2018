@@ -1,9 +1,9 @@
 
-# Computadoras-y-Programacion-2018
+# Computadoras-y-Programación-2018
 
 Nombre: Elyde Montserratt López Angel  
 
-Nombre de usuario: ElydeAngel
+Usuario: ElydeAngel
 
 Correo: elydeangel@hotmail.com
 
